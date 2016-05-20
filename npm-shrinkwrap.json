@@ -767,9 +767,9 @@
       "resolved": "https://registry.npmjs.org/vhost/-/vhost-3.0.2.tgz"
     },
     "websocket-driver": {
-      "version": "0.6.4",
+      "version": "0.6.5",
       "from": "websocket-driver@>=0.5.1",
-      "resolved": "https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.6.4.tgz"
+      "resolved": "https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.6.5.tgz"
     },
     "websocket-extensions": {
       "version": "0.1.1",
