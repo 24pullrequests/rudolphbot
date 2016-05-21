@@ -426,9 +426,16 @@
       "resolved": "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.0.tgz"
     },
     "method-override": {
-      "version": "2.3.5",
+      "version": "2.3.6",
       "from": "method-override@>=2.3.5 <2.4.0",
-      "resolved": "https://registry.npmjs.org/method-override/-/method-override-2.3.5.tgz"
+      "resolved": "https://registry.npmjs.org/method-override/-/method-override-2.3.6.tgz",
+      "dependencies": {
+        "vary": {
+          "version": "1.1.0",
+          "from": "vary@>=1.1.0 <1.2.0",
+          "resolved": "https://registry.npmjs.org/vary/-/vary-1.1.0.tgz"
+        }
+      }
     },
     "methods": {
       "version": "1.1.2",
