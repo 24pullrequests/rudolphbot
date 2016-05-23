@@ -35,9 +35,9 @@
       "resolved": "https://registry.npmjs.org/async/-/async-0.9.2.tgz"
     },
     "base64-url": {
-      "version": "1.2.1",
-      "from": "base64-url@1.2.1",
-      "resolved": "https://registry.npmjs.org/base64-url/-/base64-url-1.2.1.tgz"
+      "version": "1.2.2",
+      "from": "base64-url@1.2.2",
+      "resolved": "https://registry.npmjs.org/base64-url/-/base64-url-1.2.2.tgz"
     },
     "basic-auth": {
       "version": "1.0.4",
@@ -232,9 +232,9 @@
       "resolved": "https://registry.npmjs.org/csprng/-/csprng-0.1.1.tgz"
     },
     "csrf": {
-      "version": "3.0.1",
+      "version": "3.0.2",
       "from": "csrf@>=3.0.0 <3.1.0",
-      "resolved": "https://registry.npmjs.org/csrf/-/csrf-3.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/csrf/-/csrf-3.0.2.tgz"
     },
     "csurf": {
       "version": "1.8.3",
@@ -322,6 +322,11 @@
       "from": "express-session@>=1.11.3 <1.12.0",
       "resolved": "https://registry.npmjs.org/express-session/-/express-session-1.11.3.tgz",
       "dependencies": {
+        "base64-url": {
+          "version": "1.2.1",
+          "from": "base64-url@1.2.1",
+          "resolved": "https://registry.npmjs.org/base64-url/-/base64-url-1.2.1.tgz"
+        },
         "uid-safe": {
           "version": "2.0.0",
           "from": "uid-safe@>=2.0.0 <2.1.0",
@@ -604,11 +609,6 @@
       "from": "rndm@1.2.0",
       "resolved": "https://registry.npmjs.org/rndm/-/rndm-1.2.0.tgz"
     },
-    "scmp": {
-      "version": "1.0.0",
-      "from": "scmp@1.0.0",
-      "resolved": "https://registry.npmjs.org/scmp/-/scmp-1.0.0.tgz"
-    },
     "scoped-http-client": {
       "version": "0.11.0",
       "from": "scoped-http-client@0.11.0",
@@ -734,6 +734,11 @@
       "from": "supports-color@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
     },
+    "tsscmp": {
+      "version": "1.0.2",
+      "from": "tsscmp@1.0.2",
+      "resolved": "https://registry.npmjs.org/tsscmp/-/tsscmp-1.0.2.tgz"
+    },
     "type-is": {
       "version": "1.5.7",
       "from": "type-is@>=1.5.2 <1.6.0",
@@ -744,9 +749,9 @@
       "from": "typedarray@>=0.0.5 <0.1.0"
     },
     "uid-safe": {
-      "version": "2.1.0",
-      "from": "uid-safe@2.1.0",
-      "resolved": "https://registry.npmjs.org/uid-safe/-/uid-safe-2.1.0.tgz"
+      "version": "2.1.1",
+      "from": "uid-safe@2.1.1",
+      "resolved": "https://registry.npmjs.org/uid-safe/-/uid-safe-2.1.1.tgz"
     },
     "unpipe": {
       "version": "1.0.0",
