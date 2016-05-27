@@ -232,9 +232,9 @@
       "resolved": "https://registry.npmjs.org/csprng/-/csprng-0.1.1.tgz"
     },
     "csrf": {
-      "version": "3.0.2",
+      "version": "3.0.3",
       "from": "csrf@>=3.0.0 <3.1.0",
-      "resolved": "https://registry.npmjs.org/csrf/-/csrf-3.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/csrf/-/csrf-3.0.3.tgz"
     },
     "csurf": {
       "version": "1.8.3",
@@ -735,9 +735,9 @@
       "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
     },
     "tsscmp": {
-      "version": "1.0.2",
-      "from": "tsscmp@1.0.2",
-      "resolved": "https://registry.npmjs.org/tsscmp/-/tsscmp-1.0.2.tgz"
+      "version": "1.0.5",
+      "from": "tsscmp@1.0.5",
+      "resolved": "https://registry.npmjs.org/tsscmp/-/tsscmp-1.0.5.tgz"
     },
     "type-is": {
       "version": "1.5.7",
