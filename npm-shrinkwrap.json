@@ -674,9 +674,9 @@
       }
     },
     "serve-static": {
-      "version": "1.10.2",
+      "version": "1.10.3",
       "from": "serve-static@>=1.10.0 <1.11.0",
-      "resolved": "https://registry.npmjs.org/serve-static/-/serve-static-1.10.2.tgz",
+      "resolved": "https://registry.npmjs.org/serve-static/-/serve-static-1.10.3.tgz",
       "dependencies": {
         "depd": {
           "version": "1.1.0",
@@ -699,9 +699,9 @@
           "resolved": "https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz"
         },
         "send": {
-          "version": "0.13.1",
-          "from": "send@0.13.1",
-          "resolved": "https://registry.npmjs.org/send/-/send-0.13.1.tgz"
+          "version": "0.13.2",
+          "from": "send@0.13.2",
+          "resolved": "https://registry.npmjs.org/send/-/send-0.13.2.tgz"
         },
         "statuses": {
           "version": "1.2.1",
