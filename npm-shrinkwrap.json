@@ -134,9 +134,9 @@
       "resolved": "https://registry.npmjs.org/compression/-/compression-1.5.2.tgz"
     },
     "concat-stream": {
-      "version": "1.5.1",
+      "version": "1.5.2",
       "from": "concat-stream@latest",
-      "resolved": "https://registry.npmjs.org/concat-stream/-/concat-stream-1.5.1.tgz",
+      "resolved": "https://registry.npmjs.org/concat-stream/-/concat-stream-1.5.2.tgz",
       "dependencies": {
         "isarray": {
           "version": "1.0.0",
