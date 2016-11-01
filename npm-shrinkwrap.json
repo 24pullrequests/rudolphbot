@@ -117,13 +117,13 @@
       "resolved": "https://registry.npmjs.org/commander/-/commander-2.6.0.tgz"
     },
     "compressible": {
-      "version": "2.0.8",
+      "version": "2.0.9",
       "from": "compressible@>=2.0.5 <2.1.0",
-      "resolved": "https://registry.npmjs.org/compressible/-/compressible-2.0.8.tgz",
+      "resolved": "https://registry.npmjs.org/compressible/-/compressible-2.0.9.tgz",
       "dependencies": {
         "mime-db": {
           "version": "1.24.0",
-          "from": "mime-db@>=1.23.0 <2.0.0",
+          "from": "mime-db@>=1.24.0 <2.0.0",
           "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.24.0.tgz"
         }
       }
