@@ -607,9 +607,16 @@
       "resolved": "https://registry.npmjs.org/redis/-/redis-0.8.4.tgz"
     },
     "response-time": {
-      "version": "2.3.1",
+      "version": "2.3.2",
       "from": "response-time@>=2.3.1 <2.4.0",
-      "resolved": "https://registry.npmjs.org/response-time/-/response-time-2.3.1.tgz"
+      "resolved": "https://registry.npmjs.org/response-time/-/response-time-2.3.2.tgz",
+      "dependencies": {
+        "depd": {
+          "version": "1.1.0",
+          "from": "depd@>=1.1.0 <1.2.0",
+          "resolved": "https://registry.npmjs.org/depd/-/depd-1.1.0.tgz"
+        }
+      }
     },
     "rndm": {
       "version": "1.2.0",
