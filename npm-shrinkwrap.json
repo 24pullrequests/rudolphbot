@@ -661,9 +661,16 @@
       "resolved": "https://registry.npmjs.org/sequin/-/sequin-0.1.0.tgz"
     },
     "serve-favicon": {
-      "version": "2.3.0",
+      "version": "2.3.2",
       "from": "serve-favicon@>=2.3.0 <2.4.0",
-      "resolved": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.0.tgz"
+      "resolved": "https://registry.npmjs.org/serve-favicon/-/serve-favicon-2.3.2.tgz",
+      "dependencies": {
+        "ms": {
+          "version": "0.7.2",
+          "from": "ms@0.7.2",
+          "resolved": "https://registry.npmjs.org/ms/-/ms-0.7.2.tgz"
+        }
+      }
     },
     "serve-index": {
       "version": "1.7.3",
