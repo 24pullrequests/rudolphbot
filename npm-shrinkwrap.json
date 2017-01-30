@@ -233,9 +233,9 @@
       "resolved": "https://registry.npmjs.org/crc/-/crc-3.3.0.tgz"
     },
     "csprng": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "from": "csprng@latest",
-      "resolved": "https://registry.npmjs.org/csprng/-/csprng-0.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/csprng/-/csprng-0.1.2.tgz"
     },
     "csrf": {
       "version": "3.0.4",
@@ -672,7 +672,7 @@
     },
     "sequin": {
       "version": "0.1.0",
-      "from": "sequin@latest",
+      "from": "sequin@*",
       "resolved": "https://registry.npmjs.org/sequin/-/sequin-0.1.0.tgz"
     },
     "serve-favicon": {
