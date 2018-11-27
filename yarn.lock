@@ -387,9 +387,9 @@ http-errors@~1.3.1:
     inherits "~2.0.1"
     statuses "1"
 
-hubot-gitter2@~0.1.2:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/hubot-gitter2/-/hubot-gitter2-0.1.3.tgz#84ba7ffd26ea1d7bc2d39c0c412709bd62ec4a1a"
+hubot-gitter2@~1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hubot-gitter2/-/hubot-gitter2-1.0.0.tgz#a9c3e4b0cb8b3ecef8918df01ce78928dc4e6151"
   dependencies:
     eventemitter2 "0.4.14"
     node-gitter "1.2.2"
