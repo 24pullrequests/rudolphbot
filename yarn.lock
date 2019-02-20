@@ -62,9 +62,9 @@ cline@^0.8.2:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/cline/-/cline-0.8.2.tgz#e911e741a0ad2e24d29e6fab2cf89fa322d59c76"
 
-coffee-script@1.6.3:
+coffeescript@1.6.3:
   version "1.6.3"
-  resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.6.3.tgz#6355d32cf1b04cdff6b484e5e711782b2f0c39be"
+  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-1.6.3.tgz#41749750c621a6553c7c03818a5384bb24c30541"
 
 concat-stream@:
   version "1.6.0"
@@ -271,13 +271,13 @@ hubot-gitter2@~1.0.0:
     redis "0.8.4"
 
 "hubot@>= 2.6.0 < 4.0.0":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/hubot/-/hubot-3.1.1.tgz#c6e8ac10e3d7001043d064c52b6e946afd7ea749"
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/hubot/-/hubot-3.3.0.tgz#199dae948aaaa7d41f68a6277ce59c35262ebec5"
   dependencies:
     async ">=0.1.0 <1.0.0"
     chalk "^1.0.0"
     cline "^0.8.2"
-    coffee-script "1.6.3"
+    coffeescript "1.6.3"
     connect-multiparty "^2.1.1"
     express "^4.16.3"
     log "1.4.0"
